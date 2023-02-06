@@ -1,0 +1,25 @@
+#rod1{
+    height : 20px;
+    width : 300px;
+    background-color: blue;
+    color :white;
+    margin-top: 0%;
+}
+#rod2{
+    height: 20px;
+    width : 300px;
+    background-color: blueviolet;
+    color : white;
+    margin-top: 25%;
+    margin-bottom: 0%;
+}
+#ball{
+    height : 20px;
+    width : 20px;
+    border-radius: 20px;
+    background-color: red;
+    margin-top : 20%;
+    margin-bottom: 20%;
+    margin-left : 50%
+
+}
